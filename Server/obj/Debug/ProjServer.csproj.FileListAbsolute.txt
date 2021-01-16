@@ -1,0 +1,6 @@
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\ProjServer.csprojResolveAssemblyReference.cache
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\ProjServer.frm_Server.resources
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\ProjServer.csproj.GenerateResource.Cache
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\Alp\Desktop\socket-master\GameSocket\obj\Debug\GameSocket.pdb
